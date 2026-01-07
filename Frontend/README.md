@@ -40,4 +40,6 @@ yarn test
 ```
 
 Notes
-- Update `package.json` scripts to match your chosen framework (Vite, Create React App, Next.js, etc.).
+- Update `package.json` scripts to match your chosen framework (Vite, Create React App, Next.js).
+
+
